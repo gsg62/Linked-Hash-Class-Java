@@ -1,0 +1,10 @@
+Johnson, Robert;			603667;	M;	2.844077875
+Elliott, Cayley;			135658;	F;	2.978848017
+Reyes, Connor;				191261;	M;	3.295578577
+Sanchez, Susan;				154838;	F;	2.063213296
+Penn, Frederick;			819367;	M;	2.828974752
+Deangelis, Shawna;			764050;	F;	2.203316877
+Shafer, Tristan ;			693686;	F;	3.180700609
+Ruan, Francisco;			587182;	M;	3.726603614
+Werner, Riley;				444253;	F;	2.34553428
+Davis, Glen-Andrew;			488133;	M;	3.937722411
